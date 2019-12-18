@@ -1,4 +1,4 @@
-# Unpacking the transient event dynamics that underlie spontaneous changes and induced responses in electrophysiology
+# Unpacking Transient Event Dynamics in Electrophysiological Power Spectra
 This repository contains the scripts and software to run the simulations and real data analysis published in:
 
 Andrew J. Quinn, Freek van Ede, Matthew J. Brookes, Simone G. Heideman, Magdalena Nowak, Zelekha A. Seedat, Diego Vidaurre, Catharina Zich, Anna C. Nobre, Mark W. Woolrich (2019) Unpacking Transient Event Dynamics in Electrophysiological Power Spectra. Brain Topography.
